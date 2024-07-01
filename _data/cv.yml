@@ -1,0 +1,69 @@
+- title: Información General
+  type: map
+  contents:
+    - name: Nombre
+      value: Ornela Valdez
+    - name: Resumen
+      value: Productora Audiovisual / Comunicadora Social
+    - name: Idiomas
+      value: Español Nativo, Inglés Avanzado
+    - name: Descripción
+      value: Especializada en utilizar el medio audiovisual para conectar con las personas, contar historias significativas y transmitir mensajes claros.
+
+- title: Formación Académica
+  type: time_table
+  contents:
+    - title: Licenciatura en Lenguajes Audiovisuales  
+      institution: Facultad de Artes Visuales, UANL 
+      year: 2009 - 2013
+
+- title: Experiencia Laboral
+  type: time_table
+  contents:
+    - title: Jefatura de contenido / Comunicación Social
+      institution: Secretaría de Participación Ciudadana en el Gobierno del Estado de Nuevo León
+      year: 2022 - Actualidad
+      description: Enfocada en crear contenido audiovisual que resalte y comunique el trabajo y los logros de la Secretaría, impulsando la participación ciudadana y la transparencia en el gobierno.
+
+    - title: Profesor de Cátedra
+      institution: Facultad de Artes Visuales, UANL
+      year: 2019 - 2020
+      description:
+        - Impartiendo clases en las materias “Técnicas de representación” y “Matte painting en After Effects.
+
+    - title: Creadora de contenido
+      institution: La Unión Sociedad Creativa, Agencia de diseño
+      year: 2015 - 2020
+      description: Fotógrafa y realizadora de video, Producción y Posproducción audiovisual y Diseño Digital para agencia de publicidad, marketing y diseño.
+
+    - title: Docente
+      institution: Escuela Secundaria No. 34 “Primero de Septiembre 1982”
+      year: 2015 - 2021
+      description: Docente extracurricular de la materia de Fotografía a adolescentes de entre 12 y 15 años de edad.
+
+    - title: Productora audiovisual
+      institution: Casa Productora Área Azul
+      year: 2014 - 2016
+      description: Creación y edición de contenido, spots publicitarios y videos institucionales para clientes como Doctors Hospital, OCA Hospital, Tigres UANL, etc
+
+- title: Habilidades
+  type: nested_list
+  contents:
+    - title: Software
+      items:
+      - After Effects - Avanzado
+      - Premiere - Avanzado
+      - Lightroom - Avanzado
+      - Illustrator - Intermedio
+      - Photoshop - Intermedio
+      - Resolume Arena 5 - Básico
+      - ChatGPT - Intermedio
+    - title: Otras Habilidades
+      items:
+      - Fotografía
+      - Realización de video
+      - Dirección Creativa
+      - Redacción de guión y copywriting
+      - Edición y postproducción audiovisual
+      - Motion Graphics
+      - Diseño de producción y dirección de arte
