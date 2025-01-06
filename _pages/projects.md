@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Portafolio
-permalink: /portafolio/
+title: Portfolio
+permalink: /portfolio/
 description:
 nav: true
-nav_order: 3
-display_categories: [Audiovisual, Fotografía, Food Styling, Set Design]
-horizontal: true
+nav_order: 1
+display_categories: [work, fun]
+horizontal: false
 ---
 
 <!-- pages/projects.md -->

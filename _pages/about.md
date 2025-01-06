@@ -13,7 +13,6 @@ profile:
 news: true # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
-latest_posts: false
 ---
 
 Especializada en utilizar el medio audiovisual para conectar con las personas, contar historias significativas y transmitir mensajes claros.

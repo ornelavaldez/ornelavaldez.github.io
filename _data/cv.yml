@@ -7,8 +7,11 @@
       value: Productora Audiovisual / Comunicadora Social
     - name: Idiomas
       value: Español Nativo, Inglés Avanzado
-    - name: Descripción
-      value: Especializada en utilizar el medio audiovisual para conectar con las personas, contar historias significativas y transmitir mensajes claros.
+
+- title: Perfil
+  type: list
+  contents:
+  - Soy productora audiovisual apasionada por conectar con las personas, promover la participación pública y contar historias significativas. Me interesa especialmente comunicar la complejidad y diversidad de experiencias individuales o colectivas de quienes desafían el odio y la injusticia con valentía y dignidad, creando contenidos que empoderen a las personas, dándoles voz y visibilidad, desafiando siempre las narrativas dominantes.
 
 - title: Formación Académica
   type: time_table
@@ -20,50 +23,89 @@
 - title: Experiencia Laboral
   type: time_table
   contents:
-    - title: Jefatura de contenido / Comunicación Social
-      institution: Secretaría de Participación Ciudadana en el Gobierno del Estado de Nuevo León
-      year: 2022 - Actualidad
-      description: Enfocada en crear contenido audiovisual que resalte y comunique el trabajo y los logros de la Secretaría, impulsando la participación ciudadana y la transparencia en el gobierno.
+  - title: Productora Audiovisual (2013 - Actualidad)
+  - title: Jefatura de contenido
+    institution: Secretaría de Participación Ciudadana en el Gobierno del Estado de Nuevo León
+    year: 2021 - 2024
+    description:
+    - Creadora de narrativas audiovisuales que dan voz de la ciudadanía y resaltan los avances en transparencia gubernamental impulsando la participación ciudadana del Estado.
+    - Productora, postproductora y presentadora audiovisual liderando proyectos como el programa televisivo “Participar Nos Cambia” y la serie documental “Las y los 200 de Nuevo León”, combinando entrevistas, investigación y producción documental para abordar temas de interés público, resaltando la diversidad y orgullo neolonés.
+    - Gestión de equipos creativos multidisciplinarios, combinando una visión artística con habilidades organizativas para llevar a cabo proyectos audiovisuales desde la concepción hasta su proyección.
+  - title: La Union, Sociedad Creativa, Agencia de diseño
+    year: 2015 - 2020
+  - title: Producciones Area Azul
+    year: 2014 - 2016
+    description:
+    - Creación de contenido digital, incluyendo publicaciones de redes sociales, diseño digital, sesiones fotograficas y produccion y postproduccion de video, para atraer y fidelizar a la audiencia  marcas y negocios locales.
+  - title: Post-productora y editora de contenido audiovisual
+  - title:
+    description:
+    - Responsable de post-producción de campañas publicitarias de gran alcance para marcas reconocidas como GNC, UANL, Doctors Hospital, OCA Hospital, etc. logrando aumentar su visibilidad
+    - Edición de material crudo de comerciales televisivos y digitales, producciones cinematográficas y documentales.
+  - title: Dirección de arte y diseño de producción (2013 - 2020)
+  - title:
+    description:
+    - Directora de arte con trayectoria en la industria publicitaria y cinematográfica. Experiencia en el desarrollo de conceptos visuales para marcas líderes como Tim Hortons, Oxxo, Pollo Loco, Vinoteca, Petroseven, etc. y en la creación y decoración de sets para producciones audiovisuales y cinematográficas.
+  - title: Docente
+  - title: Facultad de Artes Visuales UANL, Docente
+    year: 2019 - 2020
+  - title: Escuela Secundaria No. 34 “Primero de Septiembre 1982”
+    year: 2015 - 2021
+    description:
+    - Enseñanza de técnicas de representación y matte painting en After Effects a nivel universitario y de Introducción a la práctica fotográfica a las adolescencias, fomentando la creatividad y pensamiento crítico.
 
-    - title: Profesor de Cátedra
-      institution: Facultad de Artes Visuales, UANL
-      year: 2019 - 2020
-      description:
-        - Impartiendo clases en las materias “Técnicas de representación” y “Matte painting en After Effects.
+- title: Convocatorias y Proyectos Destacados
+  type: time_table
+  contents:
+  - title:
+    year: 2024
+    description:
+    - <b>Primer Accésit en los Premios NOVAGOB Excelencia 2024</b> como Nuevo Talento Público por innovar en la socialización de la participación ciudadana a través del contenido audiovisual con enfoque en Derechos Humanos
+  - title:
+    year: 2018
+    description:
+    - <b>Selección Oficial</b> en el Festival Internacional de Cine de Róterdam y FICUNAM del largometraje independiente “Piérdete entre los muertos” (Dir. Rubén Gutiérrez). Responsable de dirección de arte y edición.
+  - title:
+    year: 2016
+    description:
+    - <b>Mención Honorífica</b> en el 22 Concurso Latinoamericano de Fotografía Documental “Los trabajos y los días” (Colombia).
+  - title:
+    year: 2015
+    description:
+    - <b>Becaria del Programa</b> de Estímulo a la Creación y Desarrollo Artístico con el proyecto “Retratos de luz, forma y caligrafía”.
 
-    - title: Creadora de contenido
-      institution: La Unión Sociedad Creativa, Agencia de diseño
-      year: 2015 - 2020
-      description: Fotógrafa y realizadora de video, Producción y Posproducción audiovisual y Diseño Digital para agencia de publicidad, marketing y diseño.
-
-    - title: Docente
-      institution: Escuela Secundaria No. 34 “Primero de Septiembre 1982”
-      year: 2015 - 2021
-      description: Docente extracurricular de la materia de Fotografía a adolescentes de entre 12 y 15 años de edad.
-
-    - title: Productora audiovisual
-      institution: Casa Productora Área Azul
-      year: 2014 - 2016
-      description: Creación y edición de contenido, spots publicitarios y videos institucionales para clientes como Doctors Hospital, OCA Hospital, Tigres UANL, etc
+- title: Cursos y Talleres
+  type: nested_list
+  contents:
+  - title:   
+    items:
+    - <b>Lenguaje Audiovisual e Investigación Social,</b> Instituto Mora-Laboratorio Audiovisual de Investigación Social.
+    - <b>Los Secretos del Montaje Audiovisual,</b> impartido por Joaquim Martí Marqués, Catatonia Academia
+    - <b>Análisis y visualización de datos con IA,</b> en CENTRO.
+    - <b>Participación Ciudadana en la construcción de Políticas Públicas,</b> SPC del Gobierno de Nuevo León.
+    - <b>Derechos Humanos:</b> Ciclo de talleres con enfoque en pueblos indígenas, adultos mayores, infancias y adolescencias.
+    - <b>Producción Audiovisual y Cinematográfica:</b> Laboratorio de Formación Cinematográfica (CONARTE-IMCINE), Diseño de producción para cine (CONARTE).
+    - <b>Medios Contemporáneos:</b> Curso de Videomapping (impartido por Iván Salinas)
+    - <b>Fotografía Artística:</b> Por una producción transdisciplinaria en la fotografía artística. Iluminación básica para retrato (CONARTE).
 
 - title: Habilidades
   type: nested_list
   contents:
-    - title: Software
-      items:
-      - After Effects - Avanzado
-      - Premiere - Avanzado
-      - Lightroom - Avanzado
-      - Illustrator - Intermedio
-      - Photoshop - Intermedio
-      - Resolume Arena 5 - Básico
-      - ChatGPT - Intermedio
-    - title: Otras Habilidades
-      items:
-      - Fotografía
-      - Realización de video
-      - Dirección Creativa
-      - Redacción de guión y copywriting
-      - Edición y postproducción audiovisual
-      - Motion Graphics
-      - Diseño de producción y dirección de arte
+  - title:   
+    items:
+    - Edición y postproducción audiovisual
+    - Motion Graphics
+    - Realización de video
+    - Fotografía
+    - Redacción de guión y copywriting
+    - Dirección creativa
+    - Gestión de equipos
+  - title: Software
+    items:
+    - After Effects - Avanzado
+    - Premiere - Avanzado
+    - Lightroom - Avanzado
+    - Illustrator - Intermedio
+    - Photoshop - Intermedio
+    - Resolume Arena 5 - Básico
+    - ChatGPT - Intermedio
