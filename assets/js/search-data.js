@@ -30,7 +30,29 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "news-a-simple-inline-announcement",
+        },{id: "post-tendiendo-un-puente-el-camino-de-ximena-peredo-desde-el-activismo-hacia-una-política-más-colaborativa",
+      
+        title: "Tendiendo un puente - el camino de Ximena Peredo desde el activismo hacia...",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2023/Tendiendo-un-puente/";
+        
+      },
+    },{id: "post-bridging-the-gap-ximena-peredo-s-journey-from-activism-to-collaborative-politics",
+      
+        title: "Bridging the Gap - Ximena Peredo’s Journey from Activism to Collaborative Politics",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2023/Bridging-the-gap/";
+        
+      },
+    },{id: "news-a-simple-inline-announcement",
           title: 'A simple inline announcement.',
           description: "",
           section: "News",},{id: "news-a-long-announcement-with-details",
@@ -41,7 +63,32 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{
+          section: "News",},{id: "projects-200-de-nuevo-león-la-serie",
+          title: '200 de Nuevo León - La serie',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/200-de-Nuevo-Leon-la-serie/";
+            },},{id: "projects-40-aniversario-del-teatro-de-la-ciudad",
+          title: '40 aniversario del teatro de la ciudad',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/40-aniversario-del-teatro-de-la-ciudad/";
+            },},{id: "projects-las-y-los-200-de-nuevo-león",
+          title: 'Las y los 200 de Nuevo León',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/Las-y-los-200-de-Nuevo-Leon/";
+            },},{id: "projects-reels-de-instagram",
+          title: 'Reels de Instagram',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/Reels/";
+            },},{id: "projects-participar-nos-cambia",
+          title: 'Participar Nos Cambia',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/participar-nos-cambia/";
+            },},{
         id: 'social-email',
         title: 'email',
         section: 'Socials',
