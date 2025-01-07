@@ -11,7 +11,7 @@ ninja.data = [{
     },
   },{id: "nav-portfolio",
           title: "Portfolio",
-          description: "Da clic en cualquier proyecto para obtener más información",
+          description: "Aquí te muestro proyectos que he liderado, desde programas de televisión, documentales, hasta podcasts y series, donde destaca mi capacidad de investigación, guionismo, producción y edición.   Da clic en cualquier proyecto para obtener más información",
           section: "Navigation",
           handler: () => {
             window.location.href = "/portfolio/";
@@ -65,27 +65,27 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "projects-200-de-nuevo-león-la-serie",
           title: '200 de Nuevo León (La serie)',
-          description: "",
+          description: "Serie que muestra 6 historias de personajes de diferentes municipios del estado y su impacto en la cultura y su comunidad.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/200-de-Nuevo-Leon-la-serie/";
             },},{id: "projects-40-aniversario-del-teatro-de-la-ciudad",
-          title: '40 aniversario del teatro de la ciudad',
-          description: "Video conmemorativo del aniversario del Teatro",
+          title: '40 Aniversario del Teatro de la Ciudad',
+          description: "Video conmemorativo del aniversario del Teatro.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/40-aniversario-del-teatro-de-la-ciudad/";
             },},{id: "projects-las-y-los-200-de-nuevo-león",
           title: 'Las y los 200 de Nuevo León',
-          description: "",
+          description: "Documental que conmemora el bicentenario de Nuevo León donde su gente reflexiona sobre una visión compartida para el futuro del estado.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/Las-y-los-200-de-Nuevo-Leon/";
             },},{id: "projects-participar-nos-cambia-temporada-2",
           title: 'Participar Nos Cambia (Temporada 2)',
-          description: "Nueva temporada donde abordamos nuevos proyectos e iniciativas para fortalecer la participación pública",
+          description: "Nueva temporada donde abordamos nuevos proyectos e iniciativas para fortalecer la participación pública.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/participar-nos-cambia-temporada-2/";
             },},{id: "projects-participar-nos-cambia",
           title: 'Participar Nos Cambia',
-          description: "Programa de TV que promueve una participación pública activa",
+          description: "Programa de TV que promueve una participación pública activa.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/participar-nos-cambia/";
             },},{id: "projects-participar-nos-une-podcast",
