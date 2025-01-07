@@ -11,7 +11,7 @@ ninja.data = [{
     },
   },{id: "nav-portfolio",
           title: "Portfolio",
-          description: "",
+          description: "Da clic en cualquier proyecto para obtener más información",
           section: "Navigation",
           handler: () => {
             window.location.href = "/portfolio/";
@@ -64,13 +64,13 @@ ninja.data = [{
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
           section: "News",},{id: "projects-200-de-nuevo-león-la-serie",
-          title: '200 de Nuevo León - La serie',
+          title: '200 de Nuevo León (La serie)',
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/200-de-Nuevo-Leon-la-serie/";
             },},{id: "projects-40-aniversario-del-teatro-de-la-ciudad",
           title: '40 aniversario del teatro de la ciudad',
-          description: "",
+          description: "Video conmemorativo del aniversario del Teatro",
           section: "Projects",handler: () => {
               window.location.href = "/projects/40-aniversario-del-teatro-de-la-ciudad/";
             },},{id: "projects-las-y-los-200-de-nuevo-león",
@@ -78,50 +78,41 @@ ninja.data = [{
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/Las-y-los-200-de-Nuevo-Leon/";
-            },},{id: "projects-reels-de-instagram",
-          title: 'Reels de Instagram',
-          description: "",
+            },},{id: "projects-participar-nos-cambia-temporada-2",
+          title: 'Participar Nos Cambia (Temporada 2)',
+          description: "Nueva temporada donde abordamos nuevos proyectos e iniciativas para fortalecer la participación pública",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/Reels/";
+              window.location.href = "/projects/participar-nos-cambia-temporada-2/";
             },},{id: "projects-participar-nos-cambia",
           title: 'Participar Nos Cambia',
-          description: "",
+          description: "Programa de TV que promueve una participación pública activa",
           section: "Projects",handler: () => {
               window.location.href = "/projects/participar-nos-cambia/";
+            },},{id: "projects-participar-nos-une-podcast",
+          title: 'Participar Nos Une (Podcast)',
+          description: "Podcast que invita a reflexionar sobre el gobierno, la política pública y la participación ciudadana",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/participar-nos-une-podcast/";
             },},{
         id: 'social-email',
         title: 'email',
         section: 'Socials',
         handler: () => {
-          window.open("mailto:%79%6F%75@%65%78%61%6D%70%6C%65.%63%6F%6D", "_blank");
+          window.open("mailto:%6F%72%6E%65%6C%61.%76%61%6C%64%65%7A@%67%6D%61%69%6C.%63%6F%6D", "_blank");
         },
       },{
-        id: 'social-inspire',
-        title: 'Inspire HEP',
+        id: 'social-instagram',
+        title: 'Instagram',
         section: 'Socials',
         handler: () => {
-          window.open("https://inspirehep.net/authors/1010907", "_blank");
+          window.open("https://instagram.com/maldita_morra", "_blank");
         },
       },{
-        id: 'social-rss',
-        title: 'RSS Feed',
+        id: 'social-linkedin',
+        title: 'LinkedIn',
         section: 'Socials',
         handler: () => {
-          window.open("/feed.xml", "_blank");
-        },
-      },{
-        id: 'social-scholar',
-        title: 'Google Scholar',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://scholar.google.com/citations?user=qc6CJjYAAAAJ", "_blank");
-        },
-      },{
-        id: 'social-custom_social',
-        title: 'Custom_social',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://www.alberteinstein.com/", "_blank");
+          window.open("https://www.linkedin.com/in/ornelavaldez", "_blank");
         },
       },{
       id: 'light-theme',
