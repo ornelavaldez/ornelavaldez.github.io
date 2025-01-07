@@ -2,7 +2,7 @@
 layout: page
 title: Portfolio
 permalink: /portfolio/
-description: Da clic en cualquier proyecto para obtener más información
+description: <p> Aquí te muestro proyectos que he liderado, desde programas de televisión, documentales, hasta podcasts y series, donde destaca mi capacidad de investigación, guionismo, producción y edición. <br> <br> Da clic en cualquier proyecto para obtener más información </p>
 nav: true
 nav_order: 1
 display_categories:

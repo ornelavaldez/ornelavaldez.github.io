@@ -1,7 +1,7 @@
 ---
 layout: page
-title: 40 aniversario del teatro de la ciudad
-description: Video conmemorativo del aniversario del Teatro
+title: 40 Aniversario del Teatro de la Ciudad
+description: Video conmemorativo del aniversario del Teatro.
 img: assets/img/40ANIV.jpg
 importance: 4
 related_publications: false

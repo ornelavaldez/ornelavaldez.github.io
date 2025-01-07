@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Participar Nos Cambia
-description: Programa de TV que promueve una participación pública activa
+description: Programa de TV que promueve una participación pública activa.
 img: assets/img/PNC.jpg
 importance: 1
 related_publications: false
