@@ -2,10 +2,10 @@
 layout: page
 title: Portfolio
 permalink: /portfolio/
-description:
+description: Da clic en cualquier proyecto para obtener más información
 nav: true
 nav_order: 1
-display_categories: [work, fun]
+display_categories:
 horizontal: false
 ---
 
