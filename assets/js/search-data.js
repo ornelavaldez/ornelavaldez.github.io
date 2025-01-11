@@ -78,6 +78,11 @@ ninja.data = [{
           description: "Documental que conmemora el bicentenario de Nuevo León donde su gente reflexiona sobre una visión compartida para el futuro del estado.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/Las-y-los-200-de-Nuevo-Leon/";
+            },},{id: "projects-motion-graphics",
+          title: 'Motion Graphics',
+          description: "Muestra de videos con gráficos animados, colaborando desde la conceptualización hasta edición",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/motion-graphics/";
             },},{id: "projects-participar-nos-cambia-temporada-2",
           title: 'Participar Nos Cambia (Temporada 2)',
           description: "Nueva temporada donde abordamos nuevos proyectos e iniciativas para fortalecer la participación pública.",
